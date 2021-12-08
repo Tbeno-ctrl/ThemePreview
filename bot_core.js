@@ -1,7 +1,7 @@
 const token = process.env.TOKEN;
 
 const Telegraf = require(`telegraf`);
-const bot = new Telegraf(token);
+const bot = new Telegraf(2104696293:AAEyPwEP3uT0_qyPqv94V7s4srCnYUBP0ag);
 const request = require(`request-promise`);
 const atthemeEditorApi = require(`attheme-editor-api`);
 const render = require(`./render-pool`);
